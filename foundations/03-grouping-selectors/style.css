@@ -1,0 +1,11 @@
+.danger {
+    background-color: black;
+    color: white;
+}
+.surprise {
+    background-color: yellow;
+}
+.danger, .surprise {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
