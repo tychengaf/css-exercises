@@ -1,0 +1,16 @@
+.highlight {
+    background-color: lightpink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.bigger {
+    font-size: 24px;
+}
+#blue {
+    color: blue;
+    font-size: 48px;
+}
+#green {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
